@@ -1,0 +1,13 @@
+beautifulsoup4  
+requests
+openai
+faiss-cpu
+pandas
+python-dotenv
+langchain-community
+uvicorn
+fastapi
+pydantic
+mysql
+mysql.connector
+httpx

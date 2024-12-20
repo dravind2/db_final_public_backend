@@ -1,0 +1,15 @@
+# Our python version is 3.13
+beautifulsoup4
+requests
+openai
+faiss-cpu
+pandas
+python-dotenv
+langchain-community
+langchain-openai
+uvicorn[standard]
+fastapi
+pydantic
+mysql-connector-python
+httpx
+hypercorn==0.14.4
