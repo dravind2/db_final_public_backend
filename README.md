@@ -1,4 +1,4 @@
-Note- scraping and cleaning data is housed in our private repo (data here is static- last updated as of 12/18/2024); please contact us with any questions/ if you want access to the src code. Thanks!
+Note- scraping and cleaning code is housed in our private repo (data here is static- last updated as of 12/18/2024); please contact us with any questions/ if you want access to the src code. Thanks!
 
 
 ## SpellScribe 🪄
