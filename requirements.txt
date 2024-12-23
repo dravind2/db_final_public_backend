@@ -11,3 +11,4 @@ pydantic
 mysql
 mysql.connector
 httpx
+langchain_openai
